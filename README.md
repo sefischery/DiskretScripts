@@ -1,5 +1,10 @@
 # DiskretScripts
 
+####UPDATE#####
+MyGUI.exe indeholder nu ONLYTABLERETURN.py hvilket stortset er fuldstændig ligesom den originale ExtendedEUCLAlgorithmGeneratorTabel.py fil gør. Her er det meget mere smooth i det at der er et GUI og man ikke skal kigge i consolen. (Imo, meget bedre). 
+
+MyGUI.py er MyGUI.exe scriptet, det er blot blevet compilet til en exe, via Pyinstaller. I MyGUI.py er alt PyQT5 koden og så koden fra tablereturn da det var nødsaget at copypaste koden over i ét script da pyinstaller ikke kan tage flere .py filer og compile :( 
+########
 
 ExtendedEUCLAlgorithmGeneratorTabel:
 Tager 2 tal som input, og printer tabellen af euklids algoritme. 
