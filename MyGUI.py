@@ -107,7 +107,7 @@ def ECEATG(a, b):  # EuclideanExtendedAlgorithmTableGenerator
         t = int(float(cutresult[0, 1]))
 
     return TableGen
-
+"""""""""""""""""""""""""""""""""""""""""""""""""""""BELOW IS GUI, ABOVE IS ONLY COPY-PASTED CODE FROM THE ONLYTABLERETURN script!"""""""""""""""""""""
 class App(QMainWindow):
     def __init__(self):
         super().__init__()
